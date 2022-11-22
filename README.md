@@ -1,4 +1,4 @@
-I’m interested in using data to make the world a better place
+# I’m interested in using data to make the world a better place
 
 📫 https://www.linkedin.com/in/misty-garcia/ 
 
